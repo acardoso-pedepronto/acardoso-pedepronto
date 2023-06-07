@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @acardoso-pedepronto
+- 👀 I’m interested in linux, docker, k8s, ansible, terraform, aws, gcp, python, shell-script...
+- 🌱 I’m currently learning golang, software-architecture, tests
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me acardoso@pedepronto.com.br
